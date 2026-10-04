@@ -52,17 +52,11 @@ During market volatility, retail investors often react emotionally by pausing SI
 
 ---
 
-## 💻 Running the Prototype Locally
 
-```bash
-# 1. Navigate to project
-cd finlit-decisionguard
+   ## 🔗 Live Demo
+   https://nivesh-iq-flax.vercel.app/
 
-# 2. Install dependencies (if not already installed)
-npm install
-
-# 3. Start local development server
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+   ## Run locally
+   npm install
+   npm run dev
+   Then open http://localhost:5173
